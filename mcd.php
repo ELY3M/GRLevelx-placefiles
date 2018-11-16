@@ -45,7 +45,7 @@ End:
 ini_set('error_reporting', E_ALL & ~E_DEPRECATED & ~E_STRICT & ~E_NOTICE); // Show all errors minus STRICT, DEPRECATED and NOTICES
 ini_set('display_errors', 0); // disable error display
 ini_set('log_errors', 0); // disable error logging
-
+header('Content-Type: text/plain');
 
 //$mcdurl = "testmcd.txt";
 $mcdurl = "https://www.spc.noaa.gov/products/md/";
@@ -63,7 +63,9 @@ preg_match_all($getmcdnum, $readmcd, $numbermatches);
 //echo "</pre>";
 
 
-$mcdno = $numbermatches[1][0];
+//$mcdno = $numbermatches[1][0];
+//for testing
+$mcdno = 1650;  
 
 $readmcdpage = "https://www.spc.noaa.gov/products/md/md$mcdno.html";
 $getmcdpage = file_get_contents($readmcdpage);
@@ -88,12 +90,13 @@ preg_match($matchlatlon, $getmcdpage, $latlonmatch);
 
 
 
-echo "<pre>
+echo "
 Refresh: 10
 Title: MCDs
 Threshold: 999
 Color: 0 0 255
-Line: 3, 0, \"testing\"<br>";
+Line: 3, 0, \"testing\"
+";
 
 
 //process each latlon pairs  
@@ -105,8 +108,7 @@ echo putdotin($v);
 }
 
 
-echo "<br>End:
-</pre>";
+echo "\nEnd:";
 
 
 
@@ -115,7 +117,7 @@ echo "<br>End:
 function putdotin(String $oldnum) {
 $number = ($oldnum * 0.000001);
 if ($number == 0) { return ""; }
-$number.= ', <br>';
+$number.= ', ';
 return $number;
 }
 
