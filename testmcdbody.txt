@@ -1,3 +1,91 @@
+Skip Navigation Links <#contents> weather.gov <https://www.weather.gov/> 
+
+NOAA logo-Select to go to the NOAA homepage <https://www.noaa.gov/>
+NOAA's National Weather Service 	  	Select to go to the NWS homepage
+<https://www.weather.gov/>
+Storm Prediction Center <https://www.spc.noaa.gov/>
+
+navigation bar left 	Site Map <https://www.spc.noaa.gov/sitemap.html>
+News <https://www.weather.gov/pa/> 	Organization
+<https://www.weather.gov/organization.php> 	  	
+Search for:  SPC NCEP All NOAA
+
+	  	navigation bar end cap
+
+
+Search by city or zip code. Press enter or select the go button to
+submit request
+Local forecast by
+"City, St" or "ZIP"
+ 
+
+------------------------------------------------------------------------
+
+SPC on Facebook
+<https://www.nws.noaa.gov/cgi-bin/nwsexit.pl?url=https://www.facebook.com/NWSSPC>
+
+------------------------------------------------------------------------
+@NWSSPC
+<https://www.nws.noaa.gov/cgi-bin/nwsexit.pl?url=https://twitter.com/NWSSPC>
+
+------------------------------------------------------------------------
+NCEP Quarterly Newsletter <https://www.ncep.noaa.gov/newsletter/>
+------------------------------------------------------------------------
+Home <https://www.spc.noaa.gov/> (Classic
+<https://www.spc.noaa.gov/classic.html>)
+SPC Products
+   All SPC Forecasts <https://www.spc.noaa.gov/products/>
+   Current Watches <https://www.spc.noaa.gov/products/watch/>
+   Meso. Discussions <https://www.spc.noaa.gov/products/md/>
+   Conv. Outlooks <https://www.spc.noaa.gov/products/outlook/>
+   Tstm. Outlooks <https://www.spc.noaa.gov/products/exper/enhtstm/>
+   Fire Wx Outlooks
+<https://www.spc.noaa.gov/products/fire_wx/overview.html>
+   XML logo <https://www.spc.noaa.gov/products/spcrss.xml> RSS Feeds
+<https://www.spc.noaa.gov/aboutrss.html>
+   E-Mail Alerts <https://www.weather.gov/subscribe/>
+Weather Information
+   Storm Reports <https://www.spc.noaa.gov/climo/online/>
+   Storm Reports Dev. <https://www.spc.noaa.gov/exper/reports/>
+   NWS Hazards Map <https://www.weather.gov/largemap.php>
+   National RADAR <https://www.weather.gov/Radar/>
+   Product Archive <https://www.spc.noaa.gov/archive/>
+   NOAA Weather Radio <https://www.weather.gov/nwr/>
+Research
+   Non-op. Products <https://www.spc.noaa.gov/products/exper/>
+   Forecast Tools <https://www.spc.noaa.gov/exper/>
+   Svr. Tstm. Events <https://www.spc.noaa.gov/exper/archive/events/>
+   SPC Publications <https://www.spc.noaa.gov/publications/>
+   SPC-NSSL HWT <https://hwt.nssl.noaa.gov/>
+Education & Outreach
+   About the SPC <https://www.spc.noaa.gov/misc/aboutus.html>
+   SPC FAQ <https://www.spc.noaa.gov/faq/>
+   About Tornadoes <https://www.spc.noaa.gov/faq/tornado/>
+   About Derechos
+<https://www.spc.noaa.gov/misc/AbtDerechos/derechofacts.htm>
+   Video Lecture Series <https://www.spc.noaa.gov/exper/spcousom>
+   WCM Page <https://www.spc.noaa.gov/wcm/>
+   Enh. Fujita Page <https://www.spc.noaa.gov/efscale/>
+   Our History <https://www.spc.noaa.gov/history/early.html>
+   Public Tours
+<https://www.nws.noaa.gov/cgi-bin/nwsexit.pl?url=//nwc.ou.edu/tours/>
+Misc.
+   Staff <https://www.spc.noaa.gov/staff/>
+Contact Us
+   SPC Feedback <https://www.spc.noaa.gov/misc/feedback.html>
+
+USA.gov is the U.S. Government's official Web portal to all Federal,
+state and local government Web resources and services.
+<https://www.usa.gov/>
+
+	
+Mesoscale Discussion 1651
+*< Previous MD
+<https://www.spc.noaa.gov/products/md/md1650.html>*         *Next MD >
+<https://www.spc.noaa.gov/products/md/md1652.html>*
+MD 1651 graphic
+
+
    Mesoscale Discussion 1651
    NWS Storm Prediction Center Norman OK
    0906 PM CST Thu Nov 15 2018
@@ -47,3 +135,36 @@
 
    LAT...LON   42967074 41567255 40667573 41247745 42637763 44217569
                44997283 44617011 42967074 
+
+Top <#top>/All Mesoscale Discussions
+<https://www.spc.noaa.gov/products/md/>/Forecast Products
+<https://www.spc.noaa.gov/products/>/Home <https://www.spc.noaa.gov/>
+
+Weather Topics:
+Watches <https://www.spc.noaa.gov/products/watch/>, Mesoscale
+Discussions <https://www.spc.noaa.gov/products/md/>, Outlooks
+<https://www.spc.noaa.gov/products/outlook/>, Fire Weather
+<https://www.spc.noaa.gov/products/fire_wx/>, All Products
+<https://www.spc.noaa.gov/products/>, Contact Us
+<https://www.spc.noaa.gov/misc/feedback.html>
+
+------------------------------------------------------------------------
+NOAA <https://www.noaa.gov/> / National Weather Service
+<https://www.nws.noaa.gov/>
+National Centers for Environmental Prediction <https://www.ncep.noaa.gov/>
+Storm Prediction Center <https://www.spc.noaa.gov/>
+120 David L. Boren Blvd.
+Norman, OK 73072 U.S.A.
+spc.feedback@noaa.gov
+<mailto:spc.feedback@noaa.gov?subject=[SPC%20web%20feedback]>
+Page last modified: November 16, 2018 	Disclaimer
+<https://www.weather.gov/disclaimer>
+Information Quality
+<https://www.cio.noaa.gov/services_programs/info_quality.html>
+Help <https://www.weather.gov/help>
+Glossary <https://www.weather.gov/glossary> 	Privacy Policy
+<https://www.weather.gov/privacy>
+Freedom of Information Act (FOIA) <https://www.rdc.noaa.gov/%7Efoia/>
+About Us <https://www.weather.gov/about>
+Career Opportunities <https://www.weather.gov/careers>
+
