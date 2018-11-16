@@ -1,0 +1,376 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>Storm Prediction Center - Current Mesoscale Discussions</title>
+  <meta name="DC.title" content="Storm Prediction Center Current Mesoscale Discussions Page" />
+  <meta name="DC.description" content="SPC Current MD Page" />
+  <meta name="DC.subject" content="Storm Prediction Center forecast products: tornado/severe thunderstorm watches, mesoscale discussions, day 1, 2, 3 convective outlooks, fire weather day 1, 2 outlooks" />
+  <meta name="DC.date.reviewed" scheme="ISO8601" content="2018-11-16" />
+  <meta name="DC.date.created" scheme="ISO8601" content="2001-01-01" />
+  <meta name="DC.format" content="text/html; charset=iso-8859-1" />
+
+  <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US" />
+  <meta name="DC.Distribution" content="Global" />
+  <meta name="DC.robot" content="all" />
+  <meta name="DC.creator" content="Storm Prediction Center" />
+  <meta name="DC.contributor" content="Storm Prediction Center" />
+  <meta name="DC.publisher" content="NOAA's National Weather Service" />
+  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+  <link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" />
+  <link rel="DC.rights" href="http://www.weather.gov/disclaimer.php" />
+
+  <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+  <meta content="NCEP/SPC Web Team" name="GENERATOR">
+  <meta http-equiv="Refresh" content="300">
+  <link href="/misc/spccwi.css" type="text/css" rel="STYLESHEET">
+  <link href="/nwscwi/main.css" type="text/css" rel="STYLESHEET">
+  <link rel="alternate" type="application/rss+xml" title="SPC Forecast Products RSS" href="http://www.spc.noaa.gov/products/spcrss.xml" />
+  <link rel="alternate" type="application/rss+xml" title="SPC Tornado/Severe Thunderstorm Watches RSS" href="http://www.spc.noaa.gov/products/spcwwrss.xml" />
+  <link rel="alternate" type="application/rss+xml" title="SPC Mesoscale Discussions RSS" href="http://www.spc.noaa.gov/products/spcmdrss.xml" />
+  <link rel="alternate" type="application/rss+xml" title="SPC Convective Outlooks RSS" href="http://www.spc.noaa.gov/products/spcacrss.xml" />
+  <link rel="alternate" type="application/rss+xml" title="SPC Fire Weather Outlooks RSS" href="http://www.spc.noaa.gov/products/spcfwrss.xml" />
+  <link rel="alternate" type="application/rss+xml" title="SPC PDS Watches RSS" href="http://www.spc.noaa.gov/products/spcpdswwrss.xml" />
+  <link rel="alternate" type="application/rss+xml" title="SPC Multimedia Briefings RSS" href="http://www.spc.noaa.gov/products/spcmbrss.xml" />
+  <META NAME="ROBOTS" CONTENT="ALL">
+
+  <meta name="description"
+   content="Severe weather, tornado, thunderstorm, fire weather,
+   storm report, tornado watch, severe thunderstorm watch,
+   mesoscale discussion, convective outlook products from the Storm
+   Prediction Center.">
+  <meta name="keywords"
+   content="severe weather, wx, tornado, thunderstorm, fire weather,
+   mesoscale discussion, tornado watch, severe thunderstorm watch,
+   convective outlook, storm report, tornado research, severe weather
+   research, tornadogenesis, severe thunderstorm, lightning, hail damage,
+   winter weather, wind damage, flash flood, flooding, radar, satellite,
+   GOES, damaging downbursts, damaging winds, microbursts, natural hazard,
+   climatology, NWS, NCEP, SPC, Storm Prediction Center">
+  <style type ="text/css">
+	  td.off { background:#91b8ff; }
+	  td.on  { background:#003399; }
+  </style>
+  <script type="text/javascript" src="./getdata1.js"></script>
+</head>
+<body onload="settheDate()"
+      leftmargin="0" background="/nwscwi/nws_background.gif"
+      topmargin="0" rightmargin="0" marginheight="0" marginwidth="0">
+
+<!-- Header here-->
+<table cellspacing="0" cellpadding="0" width="100%" background="/nwscwi/topbanner.jpg" border="0">
+  <tr>
+    <td align="right" height="19">
+      <a href="#contents"><img height="1" alt="Skip Navigation Links"
+         src="/nwscwi/skipgraphic.gif" width="1" border="0"></a>
+      <a href="//www.weather.gov/" target="_blank"><span class="nwslink">weather.gov</span></a>&nbsp;</td>
+  </tr>
+</table>
+
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+  <tr>
+    <td rowspan="2"><a href="//www.noaa.gov/" target="_blank"><img src="/nwscwi/noaaleft.jpg" alt="NOAA logo-Select to go to the NOAA homepage" width="85" height="78" border="0" /></a></td>
+<!--
+    <td width="500" height="20" align="center" nowrap background="/nwscwi/blank_title.jpg"><a href="//www.weather.gov/" target="_blank"><span class="regionwhite">NOAA's National Weather Service</span></a></td>
+-->
+    <td><img src="/nwscwi/noaa_nws_title.jpg" width="500" height="20" border="0" alt="NOAA's National Weather Service"></td>
+    <td rowspan="2" width="100%" background="/nwscwi/ncep_bkgrnd.jpg">&nbsp;</td>
+    <td rowspan="2" align="right"><a href="//www.weather.gov/" target="_blank"><img src="/nwscwi/nwsright.jpg" alt="Select to go to the NWS homepage" width="85" height="78" border="0" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="/"><img height="58" alt="Storm Prediction Center" src="/nwscwi/spc.jpg" width="500" border="0"></td>
+  </tr>
+</table>
+
+<table cellspacing="0" cellpadding="0" width="100%" background="/nwscwi/navbkgrnd.gif" border="0">
+  <tr>
+    <td align="left" valign="top" width="94"><img height="23" alt="navigation bar left" src="/nwscwi/navbarleft.jpg" width="94" border="0"></td>
+    <td class="nav" id="menuitem" align="center" width="15%">
+      <a href="/sitemap.html">Site Map</a></td>
+    <td class="nav" id="menuitem" align="right" width="15%">
+      <a href="//www.weather.gov/pa/">News</a></td>
+    <td class="nav" id="menuitem" align="right" width="20%">
+      <a href="//www.weather.gov/organization.php">Organization</a></td>
+    <td width="20%">&nbsp;</td>
+    <td align="left" class="searchinput" width="20%" nowrap="nowrap"><!-- Begin search code -->
+
+<!--
+      <form accept-charset="UTF-8" action="//search.usa.gov/search" id="search_form" method="get">
+        <div style="margin:0;padding:0;display:inline">
+          <input name="utf8" type="hidden" value="&#x2713;" />
+        </div>
+        <input id="affiliate" name="affiliate" type="hidden" value="spc" />
+        <label for="query" class="yellow">Search for:&nbsp;</label>
+        <input autocomplete="off" class="usagov-search-autocomplete" id="query" name="query" type="text" />
+        <input name="commit" type="submit" value="Go" />
+      </form>
+-->
+
+      <form accept-charset="UTF-8" action="//search.usa.gov/search" id="search_form" method="get">
+        <div style="margin:0;padding:0;display:inline">
+          <input name="utf8" type="hidden" value="&#x2713;" />
+        </div>
+<!--
+        <input id="affiliate" name="affiliate" type="hidden" value="spc" />
+-->
+        <label for="query" class="yellow">Search for:&nbsp;</label>
+        <input autocomplete="off" class="usagov-search-autocomplete" id="query" name="query" type="text" />
+        <input type="radio" id="affiliate" name="affiliate" checked="checked" value="spc" id="spc" />
+        <label class="yellow" for="spc">SPC</label>
+        <input type="radio" id="affiliate" name="affiliate" value="ncep.noaa.gov" id="ncep" />
+        <label class="yellow" for="ncep">NCEP</label>
+        <input type="radio" id="affiliate" name="affiliate" value="noaa.gov" id="noaa" />
+        <label class="yellow" for="noaa">All NOAA</label>
+        <input name="commit" type="submit" value="Go" />
+      </form>
+
+      <script type="text/javascript">
+        //<![CDATA[
+          var usasearch_config = { siteHandle:"spc" };
+
+          var script = document.createElement("script");
+          script.type = "text/javascript";
+          script.src = "//search.usa.gov/javascripts/remote.loader.js";
+          document.getElementsByTagName("head")[0].appendChild(script);
+
+        //]]>
+      </script>
+
+<!--
+      <form method="get" action="//search.usa.gov/search">
+        <input type="hidden" name="v:project" value="firstgov" />
+        <label for="query" span class="yellow">Search for:&nbsp;&nbsp;</label>
+        <input type="text" name="query" id="query" size="10"/>
+        <input type="radio" name="affiliate" checked="checked" value="spc"" id="spc" />
+        <label class="yellow" for="spc">SPC</label>
+        <input type="radio" name="affiliate" value="ncep.noaa.gov"" id="ncep" />
+        <label class="yellow" for="ncep">NCEP</label>
+        <input type="radio" name="affiliate" value="noaa.gov" id="noaa" />
+        <label class="yellow" for="noaa">All NOAA</label>
+        <input type="submit" value="Go"  /></label>
+      </form>
+-->
+    </td><!-- End search code -->
+    <td width="10%">&nbsp;</td>
+    <td align="right" valign="bottom" width="24"><img src="/nwscwi/navbarendcap.jpg" alt="navigation bar end cap" width="24" height="23" border="0" /></td>
+  </tr>
+
+</table>
+
+
+<table cellspacing="0" cellpadding="0" width="750" border="0">
+<tr valign="top">
+<td width="130" bgcolor="#0a2390">
+
+<!-- Left menu here-->
+<table cellspacing="0" cellpadding="2" width="130" border="0">
+        <tr valign="top">
+          <td class="searchinput" align="left">
+            <form method="post" action="//forecast.weather.gov/zipcity.php">
+              <div ID="Layer2" STYLE="position:absolute; width:200px;  height:115px; z-index:2; visibility: hidden">Search by city or zip code. Press enter or select the go button to submit request</div>
+              <span class="yellow"><label for="city_state">Local&nbsp;forecast&nbsp;by<br />&quot;City,&nbsp;St&quot;&nbsp;or&nbsp;&quot;ZIP&quot;</label></span><br />
+              <input type="text" id="city_state" name="inputstring" size="10" value="City, St" onfocus="this.value='';" />&nbsp;
+              <input type="submit" name="Go2" value="Go" />
+            </form>
+          </td>
+        </tr>
+        <tr>
+          <td class="white" id="menuitem">
+            <hr width="90%"/>
+            <div style="text-align:center;">
+              <span><a href="//www.nws.noaa.gov/cgi-bin/nwsexit.pl?url=https://www.facebook.com/NWSSPC" target="SPC_Facebook" title="NOAA NWS Storm Prediction Center Facebook"><img src="/misc/facebook_logo.gif" style="border: 0px;" /><br />SPC on Facebook</a></span>
+              <hr width="80%"/>
+              <span><a href="//www.nws.noaa.gov/cgi-bin/nwsexit.pl?url=https://twitter.com/NWSSPC" target="_blank" title="NOAA NWS Storm Prediction Center Twitter"><img src="/misc/twitter-bird-light-bgs.png" style="border: 0px;height: 40px;width: 40px;vertical-align: middle;" />@NWSSPC</a></span>
+              <hr width="80%"/>
+              <span class="yellow"><a href="//www.ncep.noaa.gov/newsletter/" target="NCEP_Newsletter">NCEP Quarterly Newsletter</a></span>
+            </div>
+            <hr width="90%"/>
+            <a href="/"><span class="yellow">Home</span></a>&nbsp;(<a href="/classic.html" target="_blank"><span class="yellow">Classic</span></a>)<br />
+            <span class="yellow">SPC&nbsp;Products</span><br />
+            &nbsp;&nbsp;&nbsp;<a href="/products/">All&nbsp;SPC&nbsp;Forecasts</a><br />
+            &nbsp;&nbsp;&nbsp;<a href="/products/watch/">Current&nbsp;Watches</a><br />
+            &nbsp;&nbsp;&nbsp;<a href="/products/md/">Meso.&nbsp;Discussions</a><br />
+            &nbsp;&nbsp;&nbsp;<a href="/products/outlook/">Conv.&nbsp;Outlooks</a><br />
+            &nbsp;&nbsp;&nbsp;<a href="/products/exper/enhtstm/">Tstm.&nbsp;Outlooks</a><br />
+            &nbsp;&nbsp;&nbsp;<a href="/products/fire_wx/overview.html">Fire&nbsp;Wx&nbsp;Outlooks</a><br />
+            &nbsp;&nbsp;&nbsp;<a href="/products/spcrss.xml"><img src="/nwscwi/xml2.gif" alt="XML logo" border="0" height="13" width="13"></a>&nbsp;<a href="/aboutrss.html">RSS&nbsp;Feeds</a><br />
+            &nbsp;&nbsp;&nbsp;<a href="//www.weather.gov/subscribe/">E-Mail Alerts</a><br />
+	    
+	    <span class="yellow">Weather&nbsp;Information</span><br />
+	    &nbsp;&nbsp;&nbsp;<a href="/climo/online/">Storm&nbsp;Reports</a><br />
+	    &nbsp;&nbsp;&nbsp;<a href="/exper/reports/">Storm&nbsp;Reports&nbsp;Dev.</a><br />
+	    &nbsp;&nbsp;&nbsp;<a href="//www.weather.gov/largemap.php" target="NWS_Hazards">NWS&nbsp;Hazards&nbsp;Map</a><br />
+            &nbsp;&nbsp;&nbsp;<a href="//www.weather.gov/Radar/" target="radar_window">National&nbsp;RADAR</a><br />
+            &nbsp;&nbsp;&nbsp;<a href="/archive/">Product&nbsp;Archive</a><br />
+            &nbsp;&nbsp;&nbsp;<A href="//www.weather.gov/nwr/" target="NWR_window">NOAA&nbsp;Weather&nbsp;Radio</a><br />
+
+            <span class="yellow">Research</span><br />
+            &nbsp;&nbsp;&nbsp;<a href="/products/exper/">Non-op.&nbsp;Products</a><br />
+            &nbsp;&nbsp;&nbsp;<a href="/exper/">Forecast&nbsp;Tools</a><br />
+            &nbsp;&nbsp;&nbsp;<a href="/exper/archive/events/">Svr.&nbsp;Tstm.&nbsp;Events</a><br />
+            &nbsp;&nbsp;&nbsp;<a href="/publications/">SPC&nbsp;Publications</a><br />
+            &nbsp;&nbsp;&nbsp;<a href="//hwt.nssl.noaa.gov/" target="NOAA_HWT">SPC-NSSL&nbsp;HWT</a><br />
+
+            <span class="yellow">Education&nbsp;&&nbsp;Outreach</span><br />
+            &nbsp;&nbsp;&nbsp;<a href="/misc/aboutus.html">About&nbsp;the&nbsp;SPC</a><br />
+	    &nbsp;&nbsp;&nbsp;<a href="/faq/">SPC&nbsp;FAQ</a><br />
+            &nbsp;&nbsp;&nbsp;<a href="/faq/tornado/">About&nbsp;Tornadoes</a><br />
+            &nbsp;&nbsp;&nbsp;<a href="/misc/AbtDerechos/derechofacts.htm">About&nbsp;Derechos</a><br />
+            &nbsp;&nbsp;&nbsp;<a href="/exper/spcousom">Video&nbsp;Lecture&nbsp;Series</a><br />
+	    &nbsp;&nbsp;&nbsp;<a href="/wcm/">WCM&nbsp;Page</a><br />
+	    &nbsp;&nbsp;&nbsp;<a href="/efscale/">Enh.&nbsp;Fujita&nbsp;Page</a><br />
+            &nbsp;&nbsp;&nbsp;<a href="/history/early.html">Our&nbsp;History</a><br />
+            &nbsp;&nbsp;&nbsp;<a href="//www.nws.noaa.gov/cgi-bin/nwsexit.pl?url=//nwc.ou.edu/tours/" target="_blank">Public&nbsp;Tours</a><br />
+
+            <span class="yellow">Misc.</span><br />
+            &nbsp;&nbsp;&nbsp;<a href="/staff/">Staff</a><br />
+            <!-- &nbsp;&nbsp;&nbsp;<a href="/misc/links.html">Links</a><br /> -->
+
+            <span class="yellow">Contact&nbsp;Us</span><br />
+            &nbsp;&nbsp;&nbsp;<a href="/misc/feedback.html">SPC&nbsp;Feedback</a><br /><br />
+          </td>
+        </tr>
+        <tr>
+          <td align="center"><a href="//www.USA.gov/"><img src="/misc/usagov_logo_color_110w_30h.gif" alt="USA.gov is the U.S. Government's official Web portal to all Federal, state and local government Web resources and services." width="110" height="30" border="0"></a></td>
+        </tr>
+      </table>
+
+
+</td>
+<td valign="top" align="center" width="620">
+<br>
+<!-- Contents below-->
+     <table width="586" border="0" cellpadding="0" cellspacing="0">
+     <tr><td><b><font face="Arial, Helvetica, sans-serif" size="4">Current Mesoscale Discussions</font></b><br />
+     <font face="Arial, Helvetica, sans-serif" size="1">Updated:&nbsp;&nbsp;Fri Nov 16 03:36:03 UTC 2018</font><br /><br />
+     <img src="validmd.png" usemap="#mdimgmap" alt="Valid MD Image"><br />
+     <img src="mdlegend.gif" alt="MD Legend Image">
+ <map name="mdimgmap">
+ <area shape="poly" coords="538, 89,527,111,500,130,482,127,476,110,489, 85,512, 69,537, 66,538, 89,538, 89" href="md1651.html" title="Mesoscale Discussion #1651">
+ <area shape="poly" coords="487,106,511, 96,534, 94,541,105,539,110,535,113,531,117,526,121,519,127,515,130,506,135,491,140,479,142,469,137,464,125,473,113,487,106,487,106" href="md1650.html" title="Mesoscale Discussion #1650">
+ </map>
+     <hr>
+     <table><tr>
+          <td align="left"><a href="/products/md/md1651.html"><img src="/products/md/mcd1651_thumb.gif" alt="MD1651 Thumbnail Image"></a></td>
+          <td align="left"><font face="Arial, Helvetica, sans-serif" size="3">
+          <strong><a href="/products/md/md1651.html">Mesoscale Discussion #1651</a></strong><br />
+          Issued: 16/0306 UTC<br />
+          Until: 16/0900 UTC<br />
+          Concerning: <strong>HEAVY SNOW</strong><br />
+          </font></td></tr></table><br />
+     <hr>
+     <table><tr>
+          <td align="left"><a href="/products/md/md1650.html"><img src="/products/md/mcd1650_thumb.gif" alt="MD1650 Thumbnail Image"></a></td>
+          <td align="left"><font face="Arial, Helvetica, sans-serif" size="3">
+          <strong><a href="/products/md/md1650.html">Mesoscale Discussion #1650</a></strong><br />
+          Issued: 15/2139 UTC<br />
+          Until: 16/0345 UTC<br />
+          Concerning: <strong>HEAVY SNOW</strong><br />
+          </font></td></tr></table><br />
+     <br />&nbsp;&nbsp;All times are UTC
+
+<br /><br />
+<!-- WPC heavy rain MD transition announcement BEGIN -->
+<p>
+<strong><font color="#ff0000">Notice:&nbsp;</font>
+The responsibility for Heavy Rain Mesoscale Discussions has been transferred to the Weather
+Prediction Center (WPC) on April 9, 2013.
+Click <a href="//www.nws.noaa.gov/os/notification/scn13-14hpc_mesoscale_precip.htm" target="_blank">here</a> for
+the Service Change Notice.</strong>
+</p>
+<!-- WPC heavy rain MD transition announcement END -->
+<b><font face="Arial, Helvetica, sans-serif" size="4">Archived Mesoscale Discussions</font></b><br />
+To view mesoscale discussions for a previous day, type in
+the date you wish to retrieve (e.g. 20040529 for May 29, 2004). Data
+available since <b>January 1, 2004</b>.
+<form name="dataReq" method="GET" action="/cgi-bin-spc/getmd.pl">
+<input type="text" size="8" name="target" maxlength=8>
+<input type="submit" value="Retrieve MCDs">
+</form>
+
+     </td></tr>
+</table>
+<br><br>
+
+<!-- Footers begin here-->
+<center>
+  <table cellspacing="2" cellpadding="2" border="0">
+    <tr align="center">
+    <td>Weather Topics:<br />
+      <a href="/products/watch/">Watches</a>,
+      <a href="/products/md/">Mesoscale Discussions</a>,
+      <a href="/products/outlook/">Outlooks</a>,
+      <a href="/products/fire_wx/">Fire Weather</a>,
+      <a href="/products/">All Products</a>,
+      <a href="/misc/feedback.html">Contact Us</a></td>
+    </tr>
+  </table>
+  <table cellspacing="6" cellpadding="0" width="98%" border="0">
+    <tr>
+      <td colSpan="3"><hr></td>
+    </tr>
+    <tr valign="top" align="left">
+      <td class="gray">
+        <a href="//www.noaa.gov/"><span class="gray">NOAA</span></a>&nbsp;/
+        <a href="//www.nws.noaa.gov/"><span class="gray">National Weather Service</span></a><br />
+        <a href="//www.ncep.noaa.gov/"><span class="gray">National Centers for Environmental Prediction</span></a><br />
+        <a href="/"><span class="gray">Storm Prediction Center</span></a><br />
+        120 David L. Boren Blvd.<br />
+        Norman, OK 73072 U.S.A.<br />
+        <a href="mailto:spc.feedback@noaa.gov?subject=[SPC web feedback]"><span class="gray">spc.feedback@noaa.gov</span></a><br />
+
+
+Page last modified:
+
+
+November 16, 2018</td>
+
+      <td align="left">
+        <a href="//www.weather.gov/disclaimer">
+          <span class="gray">Disclaimer</span></a><br />
+        <a href="//www.cio.noaa.gov/services_programs/info_quality.html">
+          <span class="gray">Information Quality</span></a><br />
+        <a href="//www.weather.gov/help">
+          <span class="gray">Help</span></a><br />
+        <a href="//www.weather.gov/glossary">
+          <span class="gray">Glossary</span></a>
+      </td>
+      <td align="right">
+        <a href="//www.weather.gov/privacy">
+          <span class="gray">Privacy Policy</span></a><br />
+        <a href="//www.rdc.noaa.gov/%7Efoia/">
+          <span class="gray">Freedom of Information Act (FOIA)</span></a><br />
+        <a href="//www.weather.gov/about">
+          <span class="gray">About Us</span></a><br />
+        <a href="//www.weather.gov/careers">
+          <span class="gray">Career Opportunities</span></a>
+      </td>
+    </tr>
+  </table>
+  <script async type="text/javascript" id="_fed_an_js_tag" src="/misc/GA/Federated-Analytics-min.js?agency=DOC&sub­agency=NOAA&pua=UA-52727918-1"></script>
+  <script async type="text/javascript" id="_fed_an_ua_tag" src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOC&sub­agency=NOAA&pua=UA-52727918-1&dclink=true"></script>
+
+<script type="text/javascript">
+  if (typeof jQuery == 'undefined') {
+    document.write(unescape("%3Cscript async src='/misc/js/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+  }
+</script>
+
+<script async type="text/javascript" src="/misc/js/nwsexit-spc-min.js"></script>
+
+</center>
+<!-- Footers end here-->
+
+</td>
+</tr>
+</table>
+</body>
+</html>
+<pre>Array
+(
+    [0] => <strong><a href="/products/md/md1651.html">Mesoscale Discussion #1651</a></strong>
+    [1] => 1651
+)
+</pre><pre>Array
+(
+)
+</pre>

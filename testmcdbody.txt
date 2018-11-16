@@ -1,0 +1,49 @@
+   Mesoscale Discussion 1651
+   NWS Storm Prediction Center Norman OK
+   0906 PM CST Thu Nov 15 2018
+
+   Areas affected...Northern Pennsylvania...New York and much of the
+   New England states
+
+   Concerning...Heavy snow 
+
+   Valid 160306Z - 160900Z
+
+   SUMMARY...Corridor of moderate to heavy snow with rates locally in
+   excess of 1 inch per hour will continue developing northward through
+   much of New York State into Vermont, New Hampshire and southern and
+   central Maine through early morning. The snow will change over to a
+   period of occasional freezing rain and drizzle from northeast
+   Pennsylvania into a portion of southeast New York and southern New
+   England with all rain across far southern New England.
+
+   DISCUSSION...As of mid evening the corridor of moderate to heavy
+   snow extends from the southern half of NY state eastward into a
+   portion of southern and central New England. This activity is
+   associated with a band of ascent within a deformation zone north and
+   east of a progressive shortwave trough currently moving through the
+   OH Valley. A surface low has deepened off the DelMarVa coast. As
+   this feature continues northward, the zone of strongest
+   frontogenetic forcing within the 800-700 mb layer will develop into
+   eastern NY and much of the remainder of New England, contributing to
+   increasing ascent within the dendritic growth zone. Moreover,
+   mid-level lapse rates will gradually steepen from the south, and
+   might eventually extend far enough northward for some convective
+   enhancement to the snowfall rates. Farther south, WV imagery shows a
+   mid-level dry-slot spreading eastward through PA and will eventually
+   affect southern New England. The drying will extend low enough into
+   the favored snow growth zone for precipitation type to change over
+   to freezing drizzle with occasional heavier convective showers.
+   Moreover, a substantial warm layer aloft will also evolve from the
+   south as the surface low and southerly low level jet continues
+   northward.
+
+   ..Dial.. 11/16/2018
+
+   ...Please see www.spc.noaa.gov for graphic product...
+
+   ATTN...WFO...GYX...BOX...BTV...OKX...ALY...PHI...BGM...BUF...
+   CTP...
+
+   LAT...LON   42967074 41567255 40667573 41247745 42637763 44217569
+               44997283 44617011 42967074 
