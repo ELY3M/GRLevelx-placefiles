@@ -1,5 +1,4 @@
-they are not really working yet.   
 they are work in process. 
 
 
-need to parse the lat lons right.  
+thanks to Paul Wetter (https://github.com/paulwetter) for lat and lons fixes
