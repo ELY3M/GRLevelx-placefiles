@@ -65,7 +65,7 @@ preg_match_all($getmcdnum, $readmcd, $numbermatches);
 
 //$mcdno = $numbermatches[1][0];
 //for testing
-$mcdno = 1650;  
+$mcdno = 1482;  
 
 $readmcdpage = "https://www.spc.noaa.gov/products/md/md$mcdno.html";
 $getmcdpage = file_get_contents($readmcdpage);
@@ -84,9 +84,8 @@ preg_match($getmcdtext, $getmcdpage, $bodymatch);
 //$matchlatlon = "/LAT...LON((?:.|\n)*)$/m";
 $matchlatlon = "#LAT...LON   (.*?)<\/pre>#s";
 preg_match($matchlatlon, $getmcdpage, $latlonmatch);
-//echo "<pre>";
 //echo $latlonmatch[0];
-//echo "</pre>";
+
 
 
 
@@ -94,31 +93,42 @@ echo "
 Refresh: 10
 Title: MCDs
 Threshold: 999
-Color: 0 0 255
+Color: 232 232 175
 Line: 3, 0, \"testing\"
 ";
 
 
 //process each latlon pairs  
+//Thank you to Paul Wetter (https://github.com/paulwetter)
 
 $arr =  explode(" ", $latlonmatch[0]);
 foreach($arr as $v)
-{	
-echo putdotin($v);
+{
+if(preg_match("/^[0-9]{8}$/",$v)) {
+		//echo substr($v,0,8) . "\n";
+		echo LatLon(substr($v,0,8)) . "\n";
+	}
 }
 
 
-echo "\nEnd:";
+echo "End:";
+
+function left($str, $length) {
+     return substr($str, 0, $length);
+}
+ 
+function right($str, $length) {
+     return substr($str, -$length);
+}
 
 
 
-
-
-function putdotin(String $oldnum) {
-$number = ($oldnum * 0.000001);
-if ($number == 0) { return ""; }
-$number.= ', ';
-return $number;
+function LatLon(String $oldnum) {
+$Lat = Left($oldnum,4);
+$Lon = Right($oldnum,4);
+$Lat = Left($Lat,2) . "." . Right($Lat,2);
+$Lon = "-" . Left($Lon,2) . "." . Right($Lon,2);
+return $Lat . ", " . $Lon ;
 }
 
 
