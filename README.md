@@ -1,10 +1,10 @@
-mcd.php - get up to 6 mcds plotted. 
-lastmcd.php - only get last mcd.  
+mcd.php - get up to 6 mcds plotted.  
+lastmcd.php - only get last mcd.    
+ 
+  
+to do:   
+SPS  
 
-
-to do: 
-SPS
-Watch boxes 
 
 
 
