@@ -45,8 +45,8 @@ $mcdno1 = $numbermatches[1][0];
 $mcdno2 = $numbermatches[1][1];
 $mcdno3 = $numbermatches[1][2];
 $mcdno4 = $numbermatches[1][3];
-$mcdno5 = $numbermatches[1][3];
-$mcdno6 = $numbermatches[1][3];
+$mcdno5 = $numbermatches[1][4];
+$mcdno6 = $numbermatches[1][5];
 //for testing
 //$mcdno = 1482; 
 
