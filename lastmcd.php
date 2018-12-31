@@ -13,7 +13,7 @@ header('Content-Type: text/plain');
 
 $mcdurl = "http://tgftp.nws.noaa.gov/data/raw/ac/acus11.kwns.swo.mcd.txt";
 $readmcd = file_get_contents($mcdurl);
-echo $readmcd;
+//echo $readmcd;
 
 $finalreadmcd = str_replace("\n"," * ", $readmcd);
 //$finalreadmcd = str_replace(" ","-", $readmcd);
@@ -27,7 +27,7 @@ preg_match($matchlatlon, $readmcd, $latlonmatch);
 
 
 echo "
-Refresh: 1
+Refresh: 10
 Title: Get Last MCD
 Threshold: 999
 Color: 232 232 175
