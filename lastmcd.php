@@ -13,21 +13,25 @@ header('Content-Type: text/plain');
 
 $mcdurl = "http://tgftp.nws.noaa.gov/data/raw/ac/acus11.kwns.swo.mcd.txt";
 $readmcd = file_get_contents($mcdurl);
-//echo $readmcd;
+echo $readmcd;
+
+$finalreadmcd = str_replace("\n"," * ", $readmcd);
+//$finalreadmcd = str_replace(" ","-", $readmcd);
+//echo $finalreadmcd;
 
 //LAT...LON 
 //$matchlatlon = "/LAT...LON((?:.|\n)*)$/m";
 $matchlatlon = "#LAT...LON   (.*?)$#s";
 preg_match($matchlatlon, $readmcd, $latlonmatch);
-//echo $latlonmatch[0];
+
 
 
 echo "
-Refresh: 10
+Refresh: 1
 Title: Get Last MCD
 Threshold: 999
 Color: 232 232 175
-Line: 3, 0, \"testing\"
+Line: 3, 0, \"$finalreadmcd\"
 ";
 
 
@@ -62,6 +66,9 @@ $Lat = Left($oldnum,4);
 $Lon = Right($oldnum,4);
 $Lat = Left($Lat,2) . "." . Right($Lat,2);
 $Lon = "-" . Left($Lon,2) . "." . Right($Lon,2);
+if(preg_match("/^-0/",$Lon)) {
+$Lon = str_replace("-0","-10", $Lon);
+}
 return $Lat . ", " . $Lon ;
 }
 
