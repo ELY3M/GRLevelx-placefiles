@@ -54,9 +54,7 @@ $watchno3 = $numbermatches[1][2];
 $watchno4 = $numbermatches[1][3];
 $watchno5 = $numbermatches[1][4];
 $watchno6 = $numbermatches[1][5];
-#0000ff
 
- 
 
 $readwatchpage1 = "https://www.spc.noaa.gov/products/watch/ww$watchno1.html";
 $readwatchpage2 = "https://www.spc.noaa.gov/products/watch/ww$watchno2.html";
